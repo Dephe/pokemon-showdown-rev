@@ -69,7 +69,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	arbok: {
-		tier: "NU",
+		tier: "PU",
 	},
 	pichu: {
 		tier: "LC",
